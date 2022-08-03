@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/canmanmo/Desktop/ML/MLflow/mlruns/0/41b73bdebc394756baac8037e5448007/artifacts
+end_time: 1659524257836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 41b73bdebc394756baac8037e5448007
+run_uuid: 41b73bdebc394756baac8037e5448007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659524254917
+status: 3
+tags: []
+user_id: canmanmo
