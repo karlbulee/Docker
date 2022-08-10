@@ -1,4 +1,10 @@
+# Data Engineer
+- Docker
+- Airflow
+- SQL
+
 # AI/ML 
+- LightGBM
 - NLP
 - Hugging Face
 
@@ -7,3 +13,4 @@
 
 # ML Engineer
 - MLOps(MLflow)
+- BentoML
