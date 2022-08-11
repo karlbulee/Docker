@@ -15,5 +15,5 @@
 - MLOps(MLflow)
 - BentoML
 
-# Book
-![l9791191600681](https://user-images.githubusercontent.com/110037747/184061410-aef1d74d-5917-4f6c-803d-908db16a5729.jpg)
+# Reference Book
+![l9791191600681](https://user-images.githubusercontent.com/110037747/184061410-aef1d74d-5917-4f6c-803d-908db16a5729.jpg) (airflow)
