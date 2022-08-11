@@ -16,4 +16,4 @@
 - BentoML
 
 # Book
-![image](https://user-images.githubusercontent.com/110037747/184061307-8efc656d-7b5f-4c55-8736-8e5efd0859b6.png)
+![l9791191600681](https://user-images.githubusercontent.com/110037747/184061410-aef1d74d-5917-4f6c-803d-908db16a5729.jpg)
