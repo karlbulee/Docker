@@ -1,3 +1,8 @@
+# Apache Airflow 기반의 데이터 파이프라인
+![l9791191600681](https://user-images.githubusercontent.com/110037747/184601137-bd9427fa-4570-4123-bc30-5b3d58dd64b2.jpg)
+
+- (22.08.15) schedule_interval, Cron, timedelta, 증분, execution_date, 데이터 파티셔닝, catchup, 원자성, 멱등성 (Page 36 ~ 66) [Airflow_스케줄링](https://github.com/karlbulee/ML/blob/main/Airflow/Airflow_%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.ipynb "Airflow_스케줄링")
+
 # Error
 1. 2022.08.11 
 - Windows 10 conda 환경에서 실행 시 airflow webserver 명령어에서 패키지 문제 발생(pwd : 리눅스에서 위치 알려주는 명령어)
