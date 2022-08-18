@@ -14,4 +14,4 @@
 - Airflow에서 Postgres 연결 문제 
 - ERROR - Failed to execute job 106 for task write_to_postgres (connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
 	Is the server running on that host and accepting TCP/IP connections?
-- 결론 : 해결책 찾는 
+- 결론 : 해결책 찾는 중
