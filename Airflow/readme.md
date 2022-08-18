@@ -3,6 +3,9 @@
 
 - (22.08.15) schedule_interval, Cron, timedelta, 증분, execution_date, 데이터 파티셔닝, catchup, 원자성, 멱등성 (Page 36 ~ 66) [Airflow_스케줄링](https://github.com/karlbulee/ML/blob/main/Airflow/Airflow_%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.ipynb "Airflow_스케줄링")
 
+- (22.08.18) Airflow 콘텍스트, 태스크 템플릿, Jinja, 템플릿 사용 가능 변수, PythonOperator 템플릿, PostgresSQL 연결 (Page 67 ~ 86) [Airflow_템플릿](https://github.com/karlbulee/ML/blob/main/Airflow/Airflow_%ED%85%9C%ED%94%8C%EB%A6%BF.ipynb "Airflow 템플릿")
+
+
 # Error
 1. 2022.08.11 
 - Windows 10 conda 환경에서 실행 시 airflow webserver 명령어에서 패키지 문제 발생(pwd : 리눅스에서 위치 알려주는 명령어)
