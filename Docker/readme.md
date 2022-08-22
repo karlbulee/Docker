@@ -10,3 +10,5 @@
 - (22.08.18) 도커 명령어, 컨테이너 생성/삭제/실행/정지, 컨테이너 통신, 웹 브라우저, 포트(Page 90 ~ 119) [도커_실습_2](https://github.com/karlbulee/ML/blob/main/Docker/%EB%8F%84%EC%BB%A4_%EC%8B%A4%EC%8A%B5_2.ipynb "도커 실습 2")
 
 - (22.08.19) Ngix, MySQL, Wordpress(Page 120 ~ 148) [도커_실습_3](https://github.com/karlbulee/ML/blob/main/Docker/%EB%8F%84%EC%BB%A4_%EC%8B%A4%EC%8A%B5_3.ipynb "도커 실습 3")
+
+- (22.08.22) Redmine, MySQL, Wordpress, MariaDB, 컨테이너_호스트_파일_복사(Page 149 ~ 178) [도커_컨테이너_실습](https://github.com/karlbulee/ML/blob/main/Docker/%EB%8F%84%EC%BB%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88_%EC%8B%A4%EC%8A%B5.ipynb "도커 컨테이너 실습")
