@@ -16,5 +16,6 @@
 # Error
 
 - (22.08.22) MySQL, MariaDB 컨테이너 생성 및 실행 시 바로 exited 문제 발생
-  - 문제 원인 : 인자 
+  - 문제 원인 : 인자 띄어쓰기 문제
   - 문제 인자 : --collation-server= utf8mb4_unicode_ci
+  - 해결 : - --collation-server= utf8mb4_unicode_ci => --collation-server=utf8mb4_unicode_ci
