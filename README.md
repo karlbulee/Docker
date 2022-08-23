@@ -1,3 +1,6 @@
+# Python
+- Algorithm
+
 # Data Engineer
 - Docker
 - Airflow
