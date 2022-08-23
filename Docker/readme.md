@@ -13,6 +13,9 @@
 
 - (22.08.22) Redmine, MySQL, Wordpress, MariaDB, 컨테이너_호스트_파일_복사(Page 149 ~ 178) [도커_컨테이너_실습](https://github.com/karlbulee/ML/blob/main/Docker/%EB%8F%84%EC%BB%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88_%EC%8B%A4%EC%8A%B5.ipynb "도커 컨테이너 실습")
 
+- (22.08.23) 스토리지 마운트, 볼륨 마운트, 바인드 마운트, 컨테이너_이미지, commit, Dockerfile(Page 179 ~ 205) [도커_컨테이너_실습_2](https://github.com/karlbulee/ML/blob/main/Docker/%EB%8F%84%EC%BB%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88_%EC%8B%A4%EC%8A%B5_2.ipynb "도커 컨테이너 실습 2")
+
+
 # Error
 
 - (22.08.22) MySQL, MariaDB 컨테이너 생성 및 실행 시 바로 exited 문제 발생
