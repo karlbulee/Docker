@@ -19,6 +19,8 @@
 
 - (22.08.26) 도커 컴포즈 파일 작성, 도커 컴포즈 실행, 쿠버네티스, 마스터 노드, 워커 노드, 클러스터, 로드밸런싱(Page 240 ~ 267) [쿠버네티스_이론](https://github.com/karlbulee/ML/blob/main/Docker/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4_%EC%9D%B4%EB%A1%A0.ipynb "쿠버네티스 이론")
 
+- (22.08.29) 쿠버네티스 관련 용어, Pod, 서비스, 레플리카세트, 디플로이먼트, 쿠버네티스 설치, 매니페스트 파일, metadata, spec(Page 268 ~ 301) [매니페스트_파일_작성](https://github.com/karlbulee/ML/blob/main/Docker/%EB%A7%A4%EB%8B%88%ED%8E%98%EC%8A%A4%ED%8A%B8_%ED%8C%8C%EC%9D%BC_%EC%9E%91%EC%84%B1.ipynb "매니페스트 파일 작성")
+
 # Error
 
 - (22.08.22) MySQL, MariaDB 컨테이너 생성 및 실행 시 바로 exited 문제 발생
