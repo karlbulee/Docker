@@ -5,5 +5,6 @@
 
 - (22.08.22) 바이트 페이 인코딩, GPT 토크나이저/토큰화, 워드피스, BERT 토크나이저/토큰화, 언어 모델 (Page 43 ~ 71) [자연어_처리_이론_2](https://github.com/karlbulee/ML/blob/main/NLP/%EC%9E%90%EC%97%B0%EC%96%B4_%EC%B2%98%EB%A6%AC_%EC%9D%B4%EB%A1%A0_2.ipynb "자연어 처리 이론 2")
 
-
 - (22.08.24) 트랜스포머, 인코더, 디코더, 셀프 어텐션, 멀티 헤드 어텐션 (Page 72 ~ 100) [트랜스포머](https://github.com/karlbulee/ML/blob/main/NLP/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8.ipynb "트랜스포머")
+
+- (22.08.29) 트랜스포머 주요 요소, 피드포워드 뉴럴 네트워크, 잔차 연결, 레이어 정규화, 드롭 아웃, 아담 옵티마이저, BERT, GPT, 파인튜닝, 임베딩 (Page 101 ~ 130) [트랜스포머_2](https://github.com/karlbulee/ML/blob/main/NLP/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8_2.ipynb "트랜스포머 2")
