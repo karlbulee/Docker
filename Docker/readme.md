@@ -17,6 +17,8 @@
 
 - (22.08.24) 컨테이너 개조, /bin/bash, docker exec, 도커 허브, 도커 컴포즈, YAML(Page 206 ~ 239) [도커_컴포즈_이론](https://github.com/karlbulee/ML/blob/main/Docker/%EB%8F%84%EC%BB%A4_%EC%BB%B4%ED%8F%AC%EC%A6%88_%EC%9D%B4%EB%A1%A0.ipynb "도커 컴포즈 이론")
 
+- (22.08.26) 도커 컴포즈 파일 작성, 도커 컴포즈 실행, 쿠버네티스, 마스터 노드, 워커 노드, 클러스터, 로드밸런싱(Page 240 ~ 267) [쿠버네티스_이론](https://github.com/karlbulee/ML/blob/main/Docker/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4_%EC%9D%B4%EB%A1%A0.ipynb "쿠버네티스 이론")
+
 # Error
 
 - (22.08.22) MySQL, MariaDB 컨테이너 생성 및 실행 시 바로 exited 문제 발생
