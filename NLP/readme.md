@@ -8,3 +8,5 @@
 - (22.08.24) 트랜스포머, 인코더, 디코더, 셀프 어텐션, 멀티 헤드 어텐션 (Page 72 ~ 100) [트랜스포머](https://github.com/karlbulee/ML/blob/main/NLP/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8.ipynb "트랜스포머")
 
 - (22.08.29) 트랜스포머 주요 요소, 피드포워드 뉴럴 네트워크, 잔차 연결, 레이어 정규화, 드롭 아웃, 아담 옵티마이저, BERT, GPT, 파인튜닝, 임베딩 (Page 101 ~ 130) [트랜스포머_2](https://github.com/karlbulee/ML/blob/main/NLP/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8_2.ipynb "트랜스포머 2")
+
+- (22.08.30) 문서 분류 모델, 영화 리뷰 감성 분석, 인퍼런스 (Page 131 ~ 153) [문서_분류_모델](https://github.com/karlbulee/ML/blob/main/NLP/%EB%AC%B8%EC%84%9C_%EB%B6%84%EB%A5%98_%EB%AA%A8%EB%8D%B8.ipynb "문서 분류 모델")
